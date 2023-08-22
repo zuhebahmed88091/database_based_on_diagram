@@ -33,7 +33,6 @@ CREATE TABLE treatments (
     name VARCHAR(255)
 );
 CREATE TABLE medical_treatment (
-    id SERIAL NOT NULL PRIMARY KEY,
     treatment_id INT,
     medical_history_id INT
 );
