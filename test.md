@@ -41,8 +41,9 @@
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
-
+<!-- Features -->
 ### Tech Stack <a name="tech-stack"></a>
+
 
 ### Key Features <a name="key-features"></a>
 
